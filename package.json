@@ -1,0 +1,24 @@
+{
+  "name": "smartchain-emission-rate",
+  "version": "0.0.1",
+  "description": "Calculates the emission rate/curve of a Komodo Smart Chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcharang/smartchain-emission-rate.git"
+  },
+  "keywords": [
+    "komodo",
+    "smartchain",
+    "emission"
+  ],
+  "author": "gcharang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcharang/smartchain-emission-rate/issues"
+  },
+  "homepage": "https://github.com/gcharang/smartchain-emission-rate#readme"
+}
